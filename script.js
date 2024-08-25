@@ -3,7 +3,6 @@ const febHolidays = [
     "First of all,Happy Birthday❤️",
     "You're my everything",
     "You are my soulmate",
-    "And of course...",
     "My future wife🤭",
     "And trust me I dont want anyone else",
     "There's no one better than you❤️",
