@@ -5,7 +5,6 @@ const febHolidays = [
     "You are my soulmate",
     "And of course...",
     "My future wife🤭",
-    "I'll always do my best to keep you happy🥺",
     "And trust me I dont want anyone else",
     "There's no one better than you❤️",
     "You're the best baby!!",
