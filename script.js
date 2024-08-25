@@ -2,8 +2,6 @@ const febHolidays = [
     "Dear Jasnu,",
     "First of all,Happy Birthday❤️",
     "My future wife🤭",
-    "And trust me I dont want anyone else",
-    "There's no one better than you❤️",
     "IK Moi TMK BHT Distrub Dsu BHT Irritate korisu",
     "But tmi jeneke Samhalisa im so happy,",
     "IK TMR BHT Overthinking O hoi❤️",
