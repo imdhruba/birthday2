@@ -7,7 +7,6 @@ const febHolidays = [
     "You're the best baby!!",
     "IK Moi TMK BHT Distrub Dsu BHT Irritate korisu",
     "But tmi jeneke Samhalisa im so happy,",
-    "That i Got u as My soulmate",
     "IK TMR BHT Overthinking O hoi❤️",
     "Then This for you,",
     "In a world of endless dreams and skies so blue,",
