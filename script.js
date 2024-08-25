@@ -46,7 +46,7 @@ const febHolidays = [
     "And guide Me if i go Wrong,",
     "DE ENJOY YOUR DAY,KLI AHIBA MacD,",
     "GIFT TU LBO, KISSI O DIM HEHEEEEE😘😘,",
-    "THANK YOU❤️❤️💋,",
+    "THANK YOU❤️❤️💋"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
